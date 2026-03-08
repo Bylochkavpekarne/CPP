@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\CPP\MyIf\MyIf\Source.cpp(4,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MyIf.vcxproj -> C:\CPP\MyIf\x64\Debug\MyIf.exe
