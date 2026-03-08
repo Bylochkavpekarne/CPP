@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v145:VCToolArchitecture=Native64Bit:VCToolsVersion=14.50.35717:VCServicingVersionCompilers=14.50.35724:TargetPlatformVersion=10.0.26100.0:
 Debug|x64|C:\CPP\HM2\|
+=======
+PlatformToolSet=v145:VCToolArchitecture=Native64Bit:VCToolsVersion=14.50.35717:VCServicingVersionCompilers=14.50.35724:TargetPlatformVersion=10.0.26100.0:
+Debug|x64|C:\CPP\HM2\|
+>>>>>>> b784a8b894aee729c394e5abf69096164292b071
